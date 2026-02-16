@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:add",
+  "argument1": "minecraft:terrain/plains/offset",
+  "argument2": "minecraft:terrain/plains/jagged_map"
+}

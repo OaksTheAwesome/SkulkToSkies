@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:add",
+  "argument1": "minecraft:terrain/water_bodies/deep_ocean/offset",
+  "argument2": "minecraft:terrain/water_bodies/deep_ocean/map"
+}

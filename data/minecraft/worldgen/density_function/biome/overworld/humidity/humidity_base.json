@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:noise",
+  "noise": "minecraft:noise_humidity",
+  "xz_scale": 0.275,
+  "y_scale": 0
+}

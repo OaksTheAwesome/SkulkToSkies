@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": {
+      "type": "minecraft:y_clamped_gradient",
+      "from_y": 0,
+      "to_y": 170,
+      "from_value": 1,
+      "to_value": -2
+    },
+    "argument2": "minecraft:terrain/beaches/heightmap"
+  },
+  "argument2": 0.28
+}

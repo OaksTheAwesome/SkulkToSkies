@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:noise",
+  "noise": "minecraft:ridge",
+  "xz_scale": 0.08,
+  "y_scale": 0
+}

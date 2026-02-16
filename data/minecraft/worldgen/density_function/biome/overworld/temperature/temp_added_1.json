@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:add",
+  "argument1": "minecraft:biome/overworld/temperature/temp_random_ruffled",
+  "argument2": "minecraft:biome/overworld/temperature/temp_height_dropoff"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:mul",
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": "minecraft:terrain/flowing_hills/map",
+    "argument2": "minecraft:terrain/flowing_hills/jaggedness"
+  },
+  "argument2": 0.4
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:spline",
+  "spline": {
+    "coordinate": "minecraft:biome/overworld/continentalness/df_cont_refined_2",
+    "points": [
+      {
+        "location": -1,
+        "derivative": 0,
+        "value": 0
+      },
+      {
+        "location": 0,
+        "derivative": 0,
+        "value": 0
+      },
+      {
+        "location": 1,
+        "derivative": 0,
+        "value": -0.6
+      }
+    ]
+  }
+}

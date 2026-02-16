@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": {
+      "type": "minecraft:y_clamped_gradient",
+      "from_y": 14,
+      "to_y": 44,
+      "from_value": 1,
+      "to_value": -1.8
+    },
+    "argument2": {
+      "type": "minecraft:add",
+      "argument1": "minecraft:terrain/water_bodies/deep_ocean/offset",
+      "argument2": "minecraft:terrain/water_bodies/deep_ocean/map"
+    }
+  },
+  "argument2": 0.25
+}

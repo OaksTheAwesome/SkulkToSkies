@@ -1,0 +1,106 @@
+{
+  "type": "minecraft:spline",
+  "spline": {
+    "coordinate": "minecraft:biome/overworld/continentalness/df_cont_refined_2",
+    "points": [
+      {
+        "location": -1,
+        "derivative": 0,
+        "value": {
+          "coordinate": "minecraft:terrain/water_bodies/deep_ocean/surface_map",
+          "points": [
+            {
+              "location": 0,
+              "derivative": 0.2,
+              "value": -1.2
+            }
+          ]
+        }
+      },
+      {
+        "location": -0.45,
+        "derivative": 0,
+        "value": {
+          "coordinate": "minecraft:terrain/water_bodies/deep_ocean/surface_map",
+          "points": [
+            {
+              "location": 0,
+              "derivative": 0.2,
+              "value": -1.05
+            }
+          ]
+        }
+      },
+      {
+        "location": -0.15,
+        "derivative": 0,
+        "value": {
+          "coordinate": "minecraft:terrain/water_bodies/shallow_ocean/surface_map",
+          "points": [
+            {
+              "location": 0,
+              "derivative": 0.05,
+              "value": -0.445
+            }
+          ]
+        }
+      },
+      {
+        "location": -0.05,
+        "derivative": 0,
+        "value": {
+          "coordinate": "minecraft:terrain/beaches/surface_map",
+          "points": [
+            {
+              "location": 0,
+              "derivative": 0.05,
+              "value": -0.19
+            }
+          ]
+        }
+      },
+      {
+        "location": 0.1,
+        "derivative": 0,
+        "value": {
+          "coordinate": "minecraft:terrain/plains/surface_map",
+          "points": [
+            {
+              "location": 0,
+              "derivative": 0.1,
+              "value": -0.11
+            }
+          ]
+        }
+      },
+      {
+        "location": 0.4,
+        "derivative": 0,
+        "value": {
+          "coordinate": "minecraft:terrain/hills/surface_map",
+          "points": [
+            {
+              "location": 0,
+              "derivative": 0.1,
+              "value": 0.03
+            }
+          ]
+        }
+      },
+      {
+        "location": 0.65,
+        "derivative": 0,
+        "value": {
+          "coordinate": "minecraft:terrain/jagged_peaks/surface_map",
+          "points": [
+            {
+              "location": 0,
+              "derivative": 0.045,
+              "value": 1
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

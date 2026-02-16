@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:add",
+  "argument1": "minecraft:terrain/beaches/offset",
+  "argument2": "minecraft:terrain/beaches/jagged_map"
+}

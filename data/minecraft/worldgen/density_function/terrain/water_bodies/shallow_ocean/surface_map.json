@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": {
+      "type": "minecraft:y_clamped_gradient",
+      "from_y": 38,
+      "to_y": 63,
+      "from_value": 1.2,
+      "to_value": -2
+    },
+    "argument2": {
+      "type": "minecraft:add",
+      "argument1": "minecraft:terrain/base_world_gradient",
+      "argument2": "minecraft:terrain/water_bodies/shallow_ocean/map"
+    }
+  },
+  "argument2": 0
+}

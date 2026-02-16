@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:noise",
+  "noise": "minecraft:noise_mountains_custom",
+  "xz_scale": 0.35,
+  "y_scale": 0
+}

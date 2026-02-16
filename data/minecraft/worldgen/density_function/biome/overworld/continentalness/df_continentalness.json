@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:noise",
+  "noise": "minecraft:noise_continentalness",
+  "xz_scale": 0.075,
+  "y_scale": 0
+}

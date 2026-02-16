@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:mul",
+  "argument1": {
+    "type": "minecraft:cache_once",
+    "argument": {
+      "type": "minecraft:noise",
+      "noise": "minecraft:jagged",
+      "xz_scale": 70,
+      "y_scale": 0
+    }
+  },
+  "argument2": 0.5
+}

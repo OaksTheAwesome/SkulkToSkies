@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": {
+      "type": "minecraft:add",
+      "argument1": {
+        "type": "minecraft:add",
+        "argument1": "minecraft:biome/overworld/erosion/erosion_coast",
+        "argument2": "minecraft:biome/overworld/erosion/erosion_nearinland"
+      },
+      "argument2": "minecraft:biome/overworld/erosion/erosion_midinland"
+    },
+    "argument2": "minecraft:biome/overworld/erosion/erosion_farinland"
+  },
+  "argument2": "minecraft:biome/overworld/erosion/erosion_oceans"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:spline",
+  "spline": {
+    "coordinate": "minecraft:biome/overworld/continentalness/df_cont_refined_2_vanilla",
+    "points": [
+      {
+        "location": 0.3,
+        "derivative": 0,
+        "value": 0
+      },
+      {
+        "location": 0.3001,
+        "derivative": 0,
+        "value": {
+          "coordinate": "minecraft:biome/overworld/erosion/erosion_farinland_ruffled_ranged",
+          "points": [
+            {
+              "location": 0,
+              "derivative": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      {
+        "location": 1,
+        "derivative": 0,
+        "value": {
+          "coordinate": "minecraft:biome/overworld/erosion/erosion_farinland_ruffled_ranged",
+          "points": [
+            {
+              "location": 0,
+              "derivative": 1,
+              "value": 0
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

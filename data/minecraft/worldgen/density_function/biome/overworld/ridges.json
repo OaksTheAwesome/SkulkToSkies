@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:add",
+  "argument1": "minecraft:biome/overworld/continentalness/df_cont_refined_2_vanilla",
+  "argument2": {
+    "type": "minecraft:mul",
+    "argument1": {
+      "type": "minecraft:noise",
+      "noise": "minecraft:ridge",
+      "xz_scale": 1,
+      "y_scale": 0
+    },
+    "argument2": 0.05
+  }
+}
